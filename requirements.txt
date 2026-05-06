@@ -1,0 +1,18 @@
+# Python dependencies for KSC core implementation
+
+# Core (no external dependencies required for basic functionality)
+# Python 3.8+
+
+# Optional: For enhanced visualization and web integration
+matplotlib>=3.5.0
+plotly>=5.0.0
+numpy>=1.21.0
+
+# Optional: For REST API wrapper (future)
+flask>=2.0.0
+requests>=2.25.0
+
+# Development & testing
+pytest>=6.2.0
+black>=21.0.0
+pylint>=2.8.0
